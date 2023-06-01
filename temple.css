@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+img{
+    height: 218px;
+    width: 245px;
+    border: 2px solid rgb(236, 221, 9);
+}
+.temple{
+    
+    margin: 0px 20px 0 0;
+    float: left;
+}
